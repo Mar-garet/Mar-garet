@@ -12,9 +12,11 @@
   <img src="assets/tech/algorithms.svg" alt="Algorithms" height="28" />
 </p>
 
-I'm a **full-stack engineer** who codes in **Python**, **C++**, and **Java**. I work across the frontend and backend, explore **AI agents**, **RAG**, and **LLM applications**, and have some experience with **algorithms**.
+I'm a **full-stack engineer** working with **Python**, **C++**, and **Java**. My interests center on **AI agents**, **LLM applications**, and **retrieval-augmented generation (RAG)**, especially how they can be applied to real products. I work across frontend and backend development and also have some experience with **algorithms**.
 
-I'm currently at **Ant Group**, based in Shanghai. Previously, I worked at **Baidu**, **Meituan**, and **Nestify Lab**.
+I want to keep growing as an engineer and build software that is useful, reliable, and thoughtfully designed. I enjoy creating polished web experiences, connecting them with the systems behind them, and turning ideas into products people can actually use. I'm also interested in independent development and exploring new ways to bring AI into everyday applications.
+
+I completed my **graduate studies at Nanjing University** and am now based in **Shanghai**, working at **Ant Group**. Before joining Ant, I worked at **Baidu**, **Meituan**, and **Nestify Lab**. **If our interests align, feel free to reach out to exchange ideas, explore collaboration, or discuss interesting projects.**
 
 ## Experience
 
@@ -27,7 +29,3 @@ I'm currently at **Ant Group**, based in Shanghai. Previously, I worked at **Bai
   &nbsp;&nbsp;
   <a href="https://www.antgroup.com/en"><img src="assets/companies/ant-group-tile.svg" alt="Ant Group, current" width="144" height="56" align="absmiddle" /></a>
 </p>
-
----
-
-[Browse my repositories](https://github.com/Mar-garet?tab=repositories)
