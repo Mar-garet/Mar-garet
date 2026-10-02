@@ -1,6 +1,6 @@
 # Technology badge sources
 
-The profile owner confirmed Python, C++, Java, TypeScript, knowledge graphs, full-stack development, and some algorithm experience, and requested Agent/RAG-related technology labels. Badges use Shields.io's `for-the-badge` style and are stored locally.
+The profile owner confirmed Python, C++, Java, TypeScript, knowledge graphs, full-stack development, and competitive programming, and requested Agent/RAG-related technology labels and post-training as a focus. Badges use Shields.io's `for-the-badge` style and are stored locally.
 
 | Label | File | Badge source |
 | --- | --- | --- |
@@ -11,9 +11,10 @@ The profile owner confirmed Python, C++, Java, TypeScript, knowledge graphs, ful
 | Agent | `agent.svg` | Shields.io with Tabler's [robot icon](https://github.com/tabler/tabler-icons/blob/main/icons/outline/robot.svg) |
 | RAG | `rag.svg` | Shields.io with Tabler's [database-search icon](https://github.com/tabler/tabler-icons/blob/main/icons/outline/database-search.svg) |
 | LLM | `llm.svg` | Shields.io with Tabler's [brain icon](https://github.com/tabler/tabler-icons/blob/main/icons/outline/brain.svg) |
+| Post-Training | `post-training.svg` | Shields.io with Tabler's [adjustments-horizontal icon](https://github.com/tabler/tabler-icons/blob/main/icons/outline/adjustments-horizontal.svg) |
 | Knowledge Graphs | `knowledge-graphs.svg` | Shields.io with Tabler's [share icon](https://github.com/tabler/tabler-icons/blob/main/icons/outline/share.svg) |
 | Full Stack | `full-stack.svg` | Shields.io with Tabler's [stack-2 icon](https://github.com/tabler/tabler-icons/blob/main/icons/outline/stack-2.svg) |
-| Algorithms | `algorithms.svg` | Shields.io with Tabler's [binary-tree icon](https://github.com/tabler/tabler-icons/blob/main/icons/outline/binary-tree.svg) |
+| Competitive Programming | `competitive-programming.svg` | Shields.io with Tabler's [trophy icon](https://github.com/tabler/tabler-icons/blob/main/icons/outline/trophy.svg) |
 
 Tabler icons use their original shapes with white strokes for badge contrast. Their MIT license is included in `LICENSE.tabler-icons`.
 
