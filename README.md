@@ -20,6 +20,8 @@ I want to keep growing as an engineer and build software that is useful, reliabl
 
 I completed my **graduate studies at Nanjing University** and am now based in **Shanghai**, working at **Ant Group**. Before joining Ant, I worked at **Baidu**, **Meituan**, and **Nestify Lab**. **If our interests align, feel free to reach out to exchange ideas, explore collaboration, or discuss interesting projects.**
 
+**Email:** [x19941941945@163.com](mailto:x19941941945@163.com)
+
 ![Codeforces: 2115](assets/codeforces-rating.svg?v=4)
 
 <p>
