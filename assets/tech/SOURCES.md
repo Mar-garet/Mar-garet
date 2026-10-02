@@ -1,12 +1,13 @@
 # Technology badge sources
 
-The profile owner confirmed Python, C++, Java, knowledge graphs, full-stack development, and some algorithm experience, and requested Agent/RAG-related technology labels. Badges use Shields.io's `for-the-badge` style and are stored locally.
+The profile owner confirmed Python, C++, Java, TypeScript, knowledge graphs, full-stack development, and some algorithm experience, and requested Agent/RAG-related technology labels. Badges use Shields.io's `for-the-badge` style and are stored locally.
 
 | Label | File | Badge source |
 | --- | --- | --- |
 | Python | `python.svg` | [Shields.io, Python icon](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white) |
 | C++ | `cpp.svg` | [Shields.io, C++ icon](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) |
 | Java | `java.svg` | [Shields.io, OpenJDK icon](https://img.shields.io/badge/JAVA-D05A2C?style=for-the-badge&logo=openjdk&logoColor=white) |
+| TypeScript | `typescript.svg` | [Shields.io, TypeScript icon](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white) |
 | Agent | `agent.svg` | Shields.io with Tabler's [robot icon](https://github.com/tabler/tabler-icons/blob/main/icons/outline/robot.svg) |
 | RAG | `rag.svg` | Shields.io with Tabler's [database-search icon](https://github.com/tabler/tabler-icons/blob/main/icons/outline/database-search.svg) |
 | LLM | `llm.svg` | Shields.io with Tabler's [brain icon](https://github.com/tabler/tabler-icons/blob/main/icons/outline/brain.svg) |

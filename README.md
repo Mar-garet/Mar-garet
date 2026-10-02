@@ -4,6 +4,7 @@
   <img src="assets/tech/python.svg" alt="Python" height="28" />
   <img src="assets/tech/cpp.svg" alt="C++" height="28" />
   <img src="assets/tech/java.svg" alt="Java" height="28" />
+  <img src="assets/tech/typescript.svg" alt="TypeScript" height="28" />
   <br />
   <img src="assets/tech/agent.svg" alt="Agent" height="28" />
   <img src="assets/tech/rag.svg" alt="RAG" height="28" />
@@ -13,7 +14,7 @@
   <img src="assets/tech/algorithms.svg" alt="Algorithms" height="28" />
 </p>
 
-I'm a **full-stack engineer** working with **Python**, **C++**, and **Java**. My interests center on **AI agents**, **LLM applications**, and **knowledge graphs**, especially how they can be applied to real products. I work across frontend and backend development and also have some experience with **algorithms**.
+I'm a **full-stack engineer** working with **Python**, **C++**, **Java**, and **TypeScript**. My interests center on **AI agents**, **LLM applications**, and **knowledge graphs**, especially how they can be applied to real products. I work across frontend and backend development and also have some experience with **algorithms**.
 
 I want to keep growing as an engineer and build software that is useful, reliable, and thoughtfully designed. I enjoy creating polished web experiences, connecting them with the systems behind them, and turning ideas into products people can actually use. I'm also interested in independent development and exploring new ways to bring AI into everyday applications.
 
