@@ -1,6 +1,10 @@
 # Hi, I'm Yu Han
 
-I'm based in Shanghai and currently work at **Ant Group**. Before joining Ant, I worked at **Baidu**, **Meituan**, and **Nestify Lab**.
+![Python](assets/tech/python.svg)
+![C++](assets/tech/cpp.svg)
+![Java](assets/tech/java.svg)
+
+I code in **Python**, **C++**, and **Java**. I'm based in Shanghai and currently work at **Ant Group**. Before joining Ant, I worked at **Baidu**, **Meituan**, and **Nestify Lab**.
 
 ## Experience
 
