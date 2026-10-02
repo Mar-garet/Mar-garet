@@ -14,3 +14,5 @@ The profile owner confirmed Python, C++, Java, full-stack development, and some 
 | Algorithms | `algorithms.svg` | Shields.io with Tabler's [binary-tree icon](https://github.com/tabler/tabler-icons/blob/main/icons/outline/binary-tree.svg) |
 
 Tabler icons use their original shapes with white strokes for badge contrast. Their MIT license is included in `LICENSE.tabler-icons`.
+
+The Codeforces score of 2115 was supplied by the profile owner. `../codeforces-rating.svg` uses the [Simple Icons Codeforces icon](https://github.com/simple-icons/simple-icons/blob/develop/icons/codeforces.svg) with the score in orange (`#FF8C00`). The score is static.
