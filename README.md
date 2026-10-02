@@ -31,3 +31,9 @@ I completed my **graduate studies at Nanjing University** and am now based in **
   &nbsp;&nbsp;
   <a href="https://www.antgroup.com/en"><img src="assets/companies/ant-group-tile.svg" alt="Ant Group, current" width="144" height="56" align="absmiddle" /></a>
 </p>
+
+**Publication**
+
+**[TOSEM ’26] SGAgent: Suggestion-Guided LLM-Based Multi-Agent Framework for Repository-Level Software Repair.**<br />
+Quanjun Zhang, Chengyu Gao, **Yu Han**, Ye Shang, Chunrong Fang, Zhenyu Chen, Liang Xiao.<br />
+*ACM Transactions on Software Engineering and Methodology*, 2026. · [Paper](https://arxiv.org/abs/2602.23647) · [Code](https://github.com/iSEngLab/SGAgent)
