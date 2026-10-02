@@ -40,7 +40,7 @@ I completed my **graduate studies at Nanjing University** <img src="assets/educa
 **[TOSEM ’26] SGAgent: Suggestion-Guided LLM-Based Multi-Agent Framework for Repository-Level Software Repair.**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mar-garet/Mar-garet/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mar-garet/Mar-garet/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake animation of my GitHub contributions" src="https://raw.githubusercontent.com/Mar-garet/Mar-garet/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation of my GitHub contributions" src="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/github-contribution-grid-snake.svg" />
 </picture>
