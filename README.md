@@ -8,17 +8,18 @@
   <img src="assets/tech/agent.svg" alt="Agent" height="28" />
   <img src="assets/tech/rag.svg" alt="RAG" height="28" />
   <img src="assets/tech/llm.svg" alt="LLM" height="28" />
+  <img src="assets/tech/knowledge-graphs.svg" alt="Knowledge Graphs" height="28" />
   <img src="assets/tech/full-stack.svg" alt="Full Stack" height="28" />
   <img src="assets/tech/algorithms.svg" alt="Algorithms" height="28" />
 </p>
 
-I'm a **full-stack engineer** working with **Python**, **C++**, and **Java**. My interests center on **AI agents**, **LLM applications**, and **retrieval-augmented generation (RAG)**, especially how they can be applied to real products. I work across frontend and backend development and also have some experience with **algorithms**.
+I'm a **full-stack engineer** working with **Python**, **C++**, and **Java**. My interests center on **AI agents**, **LLM applications**, and **knowledge graphs**, especially how they can be applied to real products. I work across frontend and backend development and also have some experience with **algorithms**.
 
 I want to keep growing as an engineer and build software that is useful, reliable, and thoughtfully designed. I enjoy creating polished web experiences, connecting them with the systems behind them, and turning ideas into products people can actually use. I'm also interested in independent development and exploring new ways to bring AI into everyday applications.
 
 I completed my **graduate studies at Nanjing University** and am now based in **Shanghai**, working at **Ant Group**. Before joining Ant, I worked at **Baidu**, **Meituan**, and **Nestify Lab**. **If our interests align, feel free to reach out to exchange ideas, explore collaboration, or discuss interesting projects.**
 
-![Codeforces: 2115](assets/codeforces-rating.svg)
+![Codeforces: 2115](assets/codeforces-rating.svg?v=2)
 
 ## Experience
 
