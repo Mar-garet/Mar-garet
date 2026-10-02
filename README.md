@@ -1,34 +1,32 @@
 # Hi, I'm Yu Han
 
-![Python](assets/tech/python.svg)
-![C++](assets/tech/cpp.svg)
-![Java](assets/tech/java.svg)
+<p>
+  <img src="assets/tech/python.svg" alt="Python" height="28" />
+  <img src="assets/tech/cpp.svg" alt="C++" height="28" />
+  <img src="assets/tech/java.svg" alt="Java" height="28" />
+  <br />
+  <img src="assets/tech/agent.svg" alt="Agent" height="28" />
+  <img src="assets/tech/rag.svg" alt="RAG" height="28" />
+  <img src="assets/tech/llm.svg" alt="LLM" height="28" />
+  <img src="assets/tech/full-stack.svg" alt="Full Stack" height="28" />
+  <img src="assets/tech/algorithms.svg" alt="Algorithms" height="28" />
+</p>
 
-I code in **Python**, **C++**, and **Java**. I'm based in Shanghai and currently work at **Ant Group**. Before joining Ant, I worked at **Baidu**, **Meituan**, and **Nestify Lab**.
+I'm a **full-stack engineer** who codes in **Python**, **C++**, and **Java**. I work across the frontend and backend, explore **AI agents**, **RAG**, and **LLM applications**, and have some experience with **algorithms**.
+
+I'm currently at **Ant Group**, based in Shanghai. Previously, I worked at **Baidu**, **Meituan**, and **Nestify Lab**.
 
 ## Experience
 
 <p>
   <a href="https://www.baidu.com/"><img src="assets/companies/baidu-tile.svg" alt="Baidu" width="144" height="56" align="absmiddle" /></a>
-  &nbsp;→&nbsp;
+  &nbsp;&nbsp;
   <a href="https://www.meituan.com/"><img src="assets/companies/meituan-tile.svg" alt="Meituan" width="144" height="56" align="absmiddle" /></a>
-  &nbsp;→&nbsp;
+  &nbsp;&nbsp;
   <a href="https://www.nestifyapp.org/"><img src="assets/companies/nestify-tile.svg" alt="Nestify Lab" width="144" height="56" align="absmiddle" /></a>
-  &nbsp;→&nbsp;
+  &nbsp;&nbsp;
   <a href="https://www.antgroup.com/en"><img src="assets/companies/ant-group-tile.svg" alt="Ant Group, current" width="144" height="56" align="absmiddle" /></a>
 </p>
-
-<details>
-<summary>Public forks</summary>
-
-These are public repositories I've forked. Each entry links to the original project and my fork.
-
-- **[Pydantic AI](https://github.com/pydantic/pydantic-ai)** · A Pydantic-based agent framework. [My fork](https://github.com/Mar-garet/pydantic-ai)
-- **[Graphiti](https://github.com/getzep/graphiti)** · Real-time knowledge graphs for agents. [My fork](https://github.com/Mar-garet/graphiti)
-- **[OpenClaw](https://github.com/openclaw/openclaw)** · A personal AI assistant across platforms. [My fork](https://github.com/Mar-garet/openclaw)
-- **[SWE-bench](https://github.com/SWE-bench/SWE-bench)** · Software engineering benchmarks based on real repository issues. [My fork](https://github.com/Mar-garet/SWE-bench)
-
-</details>
 
 ---
 
