@@ -19,9 +19,7 @@ I want to keep growing as an engineer and build software that is useful, reliabl
 
 I completed my **graduate studies at Nanjing University** and am now based in **Shanghai**, working at **Ant Group**. Before joining Ant, I worked at **Baidu**, **Meituan**, and **Nestify Lab**. **If our interests align, feel free to reach out to exchange ideas, explore collaboration, or discuss interesting projects.**
 
-![Codeforces: 2115](assets/codeforces-rating.svg?v=2)
-
-## Experience
+![Codeforces: 2115](assets/codeforces-rating.svg?v=3)
 
 <p>
   <a href="https://www.baidu.com/"><img src="assets/companies/baidu-tile.svg" alt="Baidu" width="144" height="56" align="absmiddle" /></a>

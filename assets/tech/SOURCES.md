@@ -16,4 +16,4 @@ The profile owner confirmed Python, C++, Java, knowledge graphs, full-stack deve
 
 Tabler icons use their original shapes with white strokes for badge contrast. Their MIT license is included in `LICENSE.tabler-icons`.
 
-The Codeforces score of 2115 was supplied by the profile owner. `../codeforces-rating.svg` uses the [Simple Icons Codeforces icon](https://github.com/simple-icons/simple-icons/blob/develop/icons/codeforces.svg) with the score in orange (`#FF8C00`). The score is static.
+The Codeforces score of 2115 was supplied by the profile owner. `../codeforces-logo.png` is the unchanged [official Codeforces logo](https://codeforces.com/codeforces.org/s/63188/images/codeforces-logo-with-telegram-555x130.png), sourced from the [Codeforces homepage](https://codeforces.com/). `../codeforces-rating.svg` embeds that logo with the score in orange (`#FF8C00`). The score is static.
