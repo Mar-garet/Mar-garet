@@ -1,6 +1,6 @@
 # Company logo sources
 
-Original logos are stored without changes. The `*-tile.svg` files embed the originals on a white background so they remain readable in GitHub's light and dark themes. No logo shapes or brand colors have been redrawn.
+Original logos are stored without changes. The `*-tile.svg` files embed the originals at consistent dimensions, without an added background or border. No logo shapes or brand colors have been redrawn.
 
 | Company | Original file | Source |
 | --- | --- | --- |

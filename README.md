@@ -23,13 +23,13 @@ I completed my **graduate studies at Nanjing University** and am now based in **
 ![Codeforces: 2115](assets/codeforces-rating.svg?v=4)
 
 <p>
-  <a href="https://www.baidu.com/"><img src="assets/companies/baidu-tile.svg" alt="Baidu" width="144" height="56" align="absmiddle" /></a>
+  <a href="https://www.baidu.com/"><img src="assets/companies/baidu-tile.svg?v=2" alt="Baidu" width="144" height="56" align="absmiddle" /></a>
   &nbsp;&nbsp;
-  <a href="https://www.meituan.com/"><img src="assets/companies/meituan-tile.svg" alt="Meituan" width="144" height="56" align="absmiddle" /></a>
+  <a href="https://www.meituan.com/"><img src="assets/companies/meituan-tile.svg?v=2" alt="Meituan" width="144" height="56" align="absmiddle" /></a>
   &nbsp;&nbsp;
-  <a href="https://www.nestifyapp.org/"><img src="assets/companies/nestify-tile.svg" alt="Nestify Lab" width="144" height="56" align="absmiddle" /></a>
+  <a href="https://www.nestifyapp.org/"><img src="assets/companies/nestify-tile.svg?v=2" alt="Nestify Lab" width="144" height="56" align="absmiddle" /></a>
   &nbsp;&nbsp;
-  <a href="https://www.antgroup.com/en"><img src="assets/companies/ant-group-tile.svg" alt="Ant Group, current" width="144" height="56" align="absmiddle" /></a>
+  <a href="https://www.antgroup.com/en"><img src="assets/companies/ant-group-tile.svg?v=2" alt="Ant Group, current" width="144" height="56" align="absmiddle" /></a>
 </p>
 
 **Publication**
