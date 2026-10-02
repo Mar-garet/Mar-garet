@@ -34,6 +34,4 @@ I completed my **graduate studies at Nanjing University** and am now based in **
 
 **Publication**
 
-**[TOSEM ’26] SGAgent: Suggestion-Guided LLM-Based Multi-Agent Framework for Repository-Level Software Repair.**<br />
-Quanjun Zhang, Chengyu Gao, **Yu Han**, Ye Shang, Chunrong Fang, Zhenyu Chen, Liang Xiao.<br />
-*ACM Transactions on Software Engineering and Methodology*, 2026. · [Paper](https://arxiv.org/abs/2602.23647) · [Code](https://github.com/iSEngLab/SGAgent)
+**[TOSEM ’26] SGAgent: Suggestion-Guided LLM-Based Multi-Agent Framework for Repository-Level Software Repair.**
