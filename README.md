@@ -44,6 +44,7 @@ I completed my **graduate studies at Nanjing University** <img src="assets/educa
 **Open Source Contributions**
 
 - **[SWE-bench](https://github.com/SWE-bench/experiments)** — Contributed evaluation results for software engineering agents.
+- **[Paseo](https://github.com/getpaseo/paseo)** — Contributed fixes to the CLI's scheduling options.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/github-contribution-grid-snake-dark.svg" />
