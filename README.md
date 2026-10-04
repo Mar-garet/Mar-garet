@@ -1,5 +1,7 @@
 # Hi, I'm Yu Han
 
+![Profile views](https://komarev.com/ghpvc/?username=Mar-garet&label=Profile+views&color=3475A6&style=flat-square)
+
 <p>
   <img src="assets/tech/python.svg" alt="Python" height="28" />
   <img src="assets/tech/cpp.svg" alt="C++" height="28" />
