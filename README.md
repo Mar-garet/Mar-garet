@@ -19,7 +19,7 @@ I'm a **full-stack engineer** working with **Python**, **C++**, **Java**, and **
 
 I want to keep growing as an engineer and build software that is useful, reliable, and thoughtfully designed. I enjoy creating polished web experiences, connecting them with the systems behind them, and turning ideas into products people can actually use. I'm also interested in independent development and exploring new ways to bring AI into everyday applications.
 
-I completed my **graduate studies at Nanjing University** <img src="assets/education/nanjing-university.jpg" alt="Nanjing University" width="19" height="24" align="absmiddle" /> and am now based in **Shanghai**, working at **Ant Group** in the **Wealth and Insurance Business Group**. Before joining Ant, I worked at **Baidu**, **Meituan**, **Nestify Lab**, and **ByteDance**. **If our interests align, feel free to reach out to exchange ideas, explore collaboration, or discuss interesting projects.**
+I earned my **MSSE from Nanjing University** <img src="assets/education/nanjing-university.jpg" alt="Nanjing University" width="19" height="24" align="absmiddle" /> and am now based in **Shanghai**, working at **Ant Group** in the **Wealth and Insurance Business Group**. Before joining Ant, I worked at **Baidu**, **Meituan**, **Nestify Lab**, and **ByteDance**. **If our interests align, feel free to reach out to exchange ideas, explore collaboration, or discuss interesting projects.**
 
 **Email:** [x19941941945@163.com](mailto:x19941941945@163.com)
 
