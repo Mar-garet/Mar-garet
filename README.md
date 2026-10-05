@@ -41,12 +41,14 @@ I earned my **MSSE from Nanjing University** <img src="assets/education/nanjing-
 
 **[TOSEM ’26] SGAgent: Suggestion-Guided LLM-Based Multi-Agent Framework for Repository-Level Software Repair.**
 
-**Open Source Contributions**
+**Open Source**
 
-- **[SWE-bench](https://github.com/SWE-bench/experiments)** — Contributed evaluation results for software engineering agents.
-- **[Paseo](https://github.com/getpaseo/paseo)** — Contributed fixes to the CLI's scheduling options.
-- **[pydantic-ai](https://github.com/pydantic/pydantic-ai)** — Submitted a fix for retry count handling in prefixed toolsets.
-- **[LiteLLM](https://github.com/BerriAI/litellm)** — Submitted a fix to preserve subtitle transcription duration for accurate cost calculation.
+- **[SWE-bench](https://github.com/SWE-bench/experiments)**
+- **[Paseo](https://github.com/getpaseo/paseo)**
+- **[pydantic-ai](https://github.com/pydantic/pydantic-ai)**
+- **[LiteLLM](https://github.com/BerriAI/litellm)**
+- **[Hindsight](https://github.com/vectorize-io/hindsight)**
+- **[Pi](https://github.com/earendil-works/pi)**
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/github-contribution-grid-snake-dark.svg" />
