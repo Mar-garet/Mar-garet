@@ -45,6 +45,8 @@ I earned my **MSSE from Nanjing University** <img src="assets/education/nanjing-
 
 - **[SWE-bench](https://github.com/SWE-bench/experiments)** — Contributed evaluation results for software engineering agents.
 - **[Paseo](https://github.com/getpaseo/paseo)** — Contributed fixes to the CLI's scheduling options.
+- **[pydantic-ai](https://github.com/pydantic/pydantic-ai)** — Submitted a fix for retry count handling in prefixed toolsets.
+- **[LiteLLM](https://github.com/BerriAI/litellm)** — Submitted a fix to preserve subtitle transcription duration for accurate cost calculation.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/github-contribution-grid-snake-dark.svg" />
