@@ -41,7 +41,7 @@ I earned my **MSSE from Nanjing University** <img src="assets/education/nanjing-
 
 **[TOSEM ’26] SGAgent: Suggestion-Guided LLM-Based Multi-Agent Framework for Repository-Level Software Repair.**
 
-**Open Source**
+**Projects I've Contributed To**
 
 - **[SWE-bench](https://github.com/SWE-bench/experiments)**
 - **[Paseo](https://github.com/getpaseo/paseo)**
