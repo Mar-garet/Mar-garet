@@ -1,0 +1,8 @@
+[
+  {"slug": "swe-bench", "name": "SWE-bench", "repo": "SWE-bench/experiments", "logo": "swe-bench.png"},
+  {"slug": "paseo", "name": "Paseo", "repo": "getpaseo/paseo", "logo": "paseo.svg"},
+  {"slug": "pydantic-ai", "name": "pydantic-ai", "repo": "pydantic/pydantic-ai", "logo": "pydantic-ai.png"},
+  {"slug": "litellm", "name": "LiteLLM", "repo": "BerriAI/litellm", "logo": "litellm-light.svg", "dark_logo": "litellm-dark.svg"},
+  {"slug": "hindsight", "name": "Hindsight", "repo": "vectorize-io/hindsight", "logo": "hindsight.png"},
+  {"slug": "pi", "name": "Pi", "repo": "earendil-works/pi", "logo": "pi-logo.svg"}
+]

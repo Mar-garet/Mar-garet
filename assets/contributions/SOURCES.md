@@ -1,6 +1,6 @@
 # Contributed project icon sources
 
-Original assets are stored without changes. The README controls their display size and uses the official light and dark LiteLLM variants.
+Original assets are stored without changes. Contribution cards embed the originals at consistent display sizes and use the official light and dark LiteLLM variants.
 
 | Project | Local file | Official source |
 | --- | --- | --- |
@@ -11,6 +11,10 @@ Original assets are stored without changes. The README controls their display si
 | Hindsight | `hindsight.png` | [Documentation icon](https://github.com/vectorize-io/hindsight/blob/main/hindsight-docs/static/img/favicon.png) |
 | Pi | `pi-logo.svg` | [Logo linked by the project README](https://pi.dev/logo-auto.svg) |
 
-Star counts use [Shields.io's GitHub Repo stars badges](https://shields.io/badges/git-hub-repo-stars). Each badge refers to the exact repository linked alongside it, including `SWE-bench/experiments`. Counts refresh through the badge service and GitHub's image cache.
+The cards use Tabler's unchanged [star icon](https://github.com/tabler/tabler-icons/blob/main/icons/outline/star.svg), with its stroke color inherited from the card. Its MIT license is included in `../tech/LICENSE.tabler-icons`.
+
+`.github/scripts/render_contributions.py` reads `projects.json`, fetches each repository's current `stargazers_count` through the GitHub API, and generates light and dark SVG cards. Each count refers to the exact repository linked alongside it, including `SWE-bench/experiments`.
+
+The profile graphics workflow publishes the cards to `output/contributions/` daily at 09:17 China time, together with the contribution snake. GitHub's image cache can delay display updates.
 
 These assets identify projects the profile owner has contributed to. Brand rights remain with their respective owners.
