@@ -37,10 +37,6 @@ I earned my **MSSE from Nanjing University** <img src="assets/education/nanjing-
   <a href="https://www.antgroup.com/en"><img src="assets/companies/ant-group-logo.svg" alt="Ant Group, current" width="144" height="56" align="absmiddle" /></a>
 </p>
 
-<p><picture><source media="(prefers-color-scheme: dark)" srcset="assets/sections/publication-dark.svg?v=2" /><img src="assets/sections/publication-light.svg?v=2" alt="Publication" width="132" height="28" /></picture></p>
-
-**[TOSEM ’26] SGAgent: Suggestion-Guided LLM-Based Multi-Agent Framework for Repository-Level Software Repair.**
-
 <p><picture><source media="(prefers-color-scheme: dark)" srcset="assets/sections/contributions-dark.svg?v=2" /><img src="assets/sections/contributions-light.svg?v=2" alt="Projects I've Contributed To" width="294" height="28" /></picture></p>
 
 <p>
@@ -51,6 +47,10 @@ I earned my **MSSE from Nanjing University** <img src="assets/education/nanjing-
   <a href="https://github.com/vectorize-io/hindsight"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/hindsight-dark.svg" /><img src="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/hindsight-light.svg" alt="Hindsight repository and star count" width="274" height="96" /></picture></a>
   <a href="https://github.com/earendil-works/pi"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/pi-dark.svg" /><img src="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/pi-light.svg" alt="Pi repository and star count" width="274" height="96" /></picture></a>
 </p>
+
+<p><picture><source media="(prefers-color-scheme: dark)" srcset="assets/sections/publication-dark.svg?v=2" /><img src="assets/sections/publication-light.svg?v=2" alt="Publication" width="132" height="28" /></picture></p>
+
+**[TOSEM ’26] SGAgent: Suggestion-Guided LLM-Based Multi-Agent Framework for Repository-Level Software Repair.**
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/github-contribution-grid-snake-dark.svg" />
