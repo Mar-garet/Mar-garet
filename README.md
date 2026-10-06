@@ -44,17 +44,30 @@ I earned my **MSSE from Nanjing University** <img src="assets/education/nanjing-
 **Projects I've Contributed To**
 
 <p>
-  <a href="https://github.com/SWE-bench/experiments"><img src="assets/contributions/swe-bench.png" alt="SWE-bench icon" width="32" height="32" align="absmiddle" />&nbsp;<strong>SWE-bench</strong>&nbsp;<img src="https://img.shields.io/github/stars/SWE-bench/experiments?style=social&amp;label=Stars" alt="SWE-bench/experiments stars" height="20" align="absmiddle" /></a>
-  <br />
-  <a href="https://github.com/getpaseo/paseo"><img src="assets/contributions/paseo.svg" alt="Paseo icon" width="32" height="32" align="absmiddle" />&nbsp;<strong>Paseo</strong>&nbsp;<img src="https://img.shields.io/github/stars/getpaseo/paseo?style=social&amp;label=Stars" alt="getpaseo/paseo stars" height="20" align="absmiddle" /></a>
-  <br />
-  <a href="https://github.com/pydantic/pydantic-ai"><img src="assets/contributions/pydantic-ai.png" alt="Pydantic AI icon" width="32" height="32" align="absmiddle" />&nbsp;<strong>pydantic-ai</strong>&nbsp;<img src="https://img.shields.io/github/stars/pydantic/pydantic-ai?style=social&amp;label=Stars" alt="pydantic/pydantic-ai stars" height="20" align="absmiddle" /></a>
-  <br />
-  <a href="https://github.com/BerriAI/litellm"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/contributions/litellm-dark.svg" /><img src="assets/contributions/litellm-light.svg" alt="LiteLLM icon" width="32" height="32" align="absmiddle" /></picture>&nbsp;<strong>LiteLLM</strong>&nbsp;<img src="https://img.shields.io/github/stars/BerriAI/litellm?style=social&amp;label=Stars" alt="BerriAI/litellm stars" height="20" align="absmiddle" /></a>
-  <br />
-  <a href="https://github.com/vectorize-io/hindsight"><img src="assets/contributions/hindsight.png" alt="Hindsight icon" width="43" height="32" align="absmiddle" />&nbsp;<strong>Hindsight</strong>&nbsp;<img src="https://img.shields.io/github/stars/vectorize-io/hindsight?style=social&amp;label=Stars" alt="vectorize-io/hindsight stars" height="20" align="absmiddle" /></a>
-  <br />
-  <a href="https://github.com/earendil-works/pi"><img src="assets/contributions/pi-logo.svg" alt="Pi icon" width="32" height="32" align="absmiddle" />&nbsp;<strong>Pi</strong>&nbsp;<img src="https://img.shields.io/github/stars/earendil-works/pi?style=social&amp;label=Stars" alt="earendil-works/pi stars" height="20" align="absmiddle" /></a>
+  <a href="https://github.com/SWE-bench/experiments"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/swe-bench-dark.svg" />
+    <img src="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/swe-bench-light.svg" alt="SWE-bench repository and star count" width="274" height="96" />
+  </picture></a>
+  <a href="https://github.com/getpaseo/paseo"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/paseo-dark.svg" />
+    <img src="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/paseo-light.svg" alt="Paseo repository and star count" width="274" height="96" />
+  </picture></a>
+  <a href="https://github.com/pydantic/pydantic-ai"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/pydantic-ai-dark.svg" />
+    <img src="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/pydantic-ai-light.svg" alt="pydantic-ai repository and star count" width="274" height="96" />
+  </picture></a>
+  <a href="https://github.com/BerriAI/litellm"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/litellm-dark.svg" />
+    <img src="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/litellm-light.svg" alt="LiteLLM repository and star count" width="274" height="96" />
+  </picture></a>
+  <a href="https://github.com/vectorize-io/hindsight"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/hindsight-dark.svg" />
+    <img src="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/hindsight-light.svg" alt="Hindsight repository and star count" width="274" height="96" />
+  </picture></a>
+  <a href="https://github.com/earendil-works/pi"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/pi-dark.svg" />
+    <img src="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/pi-light.svg" alt="Pi repository and star count" width="274" height="96" />
+  </picture></a>
 </p>
 
 <picture>
