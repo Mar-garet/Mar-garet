@@ -44,30 +44,12 @@ I earned my **MSSE from Nanjing University** <img src="assets/education/nanjing-
 **Projects I've Contributed To**
 
 <p>
-  <a href="https://github.com/SWE-bench/experiments"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/swe-bench-dark.svg" />
-    <img src="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/swe-bench-light.svg" alt="SWE-bench repository and star count" width="274" height="96" />
-  </picture></a>
-  <a href="https://github.com/getpaseo/paseo"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/paseo-dark.svg" />
-    <img src="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/paseo-light.svg" alt="Paseo repository and star count" width="274" height="96" />
-  </picture></a>
-  <a href="https://github.com/pydantic/pydantic-ai"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/pydantic-ai-dark.svg" />
-    <img src="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/pydantic-ai-light.svg" alt="pydantic-ai repository and star count" width="274" height="96" />
-  </picture></a>
-  <a href="https://github.com/BerriAI/litellm"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/litellm-dark.svg" />
-    <img src="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/litellm-light.svg" alt="LiteLLM repository and star count" width="274" height="96" />
-  </picture></a>
-  <a href="https://github.com/vectorize-io/hindsight"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/hindsight-dark.svg" />
-    <img src="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/hindsight-light.svg" alt="Hindsight repository and star count" width="274" height="96" />
-  </picture></a>
-  <a href="https://github.com/earendil-works/pi"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/pi-dark.svg" />
-    <img src="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/pi-light.svg" alt="Pi repository and star count" width="274" height="96" />
-  </picture></a>
+  <a href="https://github.com/SWE-bench/experiments"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/swe-bench-dark.svg" /><img src="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/swe-bench-light.svg" alt="SWE-bench repository and star count" width="274" height="96" /></picture></a>
+  <a href="https://github.com/getpaseo/paseo"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/paseo-dark.svg" /><img src="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/paseo-light.svg" alt="Paseo repository and star count" width="274" height="96" /></picture></a>
+  <a href="https://github.com/pydantic/pydantic-ai"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/pydantic-ai-dark.svg" /><img src="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/pydantic-ai-light.svg" alt="pydantic-ai repository and star count" width="274" height="96" /></picture></a>
+  <a href="https://github.com/BerriAI/litellm"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/litellm-dark.svg" /><img src="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/litellm-light.svg" alt="LiteLLM repository and star count" width="274" height="96" /></picture></a>
+  <a href="https://github.com/vectorize-io/hindsight"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/hindsight-dark.svg" /><img src="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/hindsight-light.svg" alt="Hindsight repository and star count" width="274" height="96" /></picture></a>
+  <a href="https://github.com/earendil-works/pi"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/pi-dark.svg" /><img src="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/pi-light.svg" alt="Pi repository and star count" width="274" height="96" /></picture></a>
 </p>
 
 <picture>
