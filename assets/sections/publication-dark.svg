@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="132" height="28" viewBox="0 0 132 28" role="img" aria-labelledby="title">
   <title id="title">Publication</title>
   <rect x="0" y="5" width="3" height="18" rx="1.5" fill="#869bcb" />
-  <text x="14" y="21" fill="#a7b8e1" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif" font-size="19" font-weight="600">Publication</text>
+  <text x="14" y="19" fill="#a7b8e1" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif" font-size="14" font-weight="600">Publication</text>
 </svg>
