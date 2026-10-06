@@ -37,11 +37,11 @@ I earned my **MSSE from Nanjing University** <img src="assets/education/nanjing-
   <a href="https://www.antgroup.com/en"><img src="assets/companies/ant-group-logo.svg" alt="Ant Group, current" width="144" height="56" align="absmiddle" /></a>
 </p>
 
-<h3><picture><source media="(prefers-color-scheme: dark)" srcset="assets/sections/publication-dark.svg" /><img src="assets/sections/publication-light.svg" alt="Publication" width="132" height="28" /></picture></h3>
+<p><picture><source media="(prefers-color-scheme: dark)" srcset="assets/sections/publication-dark.svg" /><img src="assets/sections/publication-light.svg" alt="Publication" width="132" height="28" /></picture></p>
 
 **[TOSEM ’26] SGAgent: Suggestion-Guided LLM-Based Multi-Agent Framework for Repository-Level Software Repair.**
 
-<h3><picture><source media="(prefers-color-scheme: dark)" srcset="assets/sections/contributions-dark.svg" /><img src="assets/sections/contributions-light.svg" alt="Projects I've Contributed To" width="294" height="28" /></picture></h3>
+<p><picture><source media="(prefers-color-scheme: dark)" srcset="assets/sections/contributions-dark.svg" /><img src="assets/sections/contributions-light.svg" alt="Projects I've Contributed To" width="294" height="28" /></picture></p>
 
 <p>
   <a href="https://github.com/SWE-bench/experiments"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/swe-bench-dark.svg" /><img src="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/swe-bench-light.svg" alt="SWE-bench repository and star count" width="274" height="96" /></picture></a>
