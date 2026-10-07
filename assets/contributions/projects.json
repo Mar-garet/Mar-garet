@@ -4,5 +4,6 @@
   {"slug": "pydantic-ai", "name": "pydantic-ai", "repo": "pydantic/pydantic-ai", "logo": "pydantic-ai.png"},
   {"slug": "litellm", "name": "LiteLLM", "repo": "BerriAI/litellm", "logo": "litellm-light.svg", "dark_logo": "litellm-dark.svg"},
   {"slug": "hindsight", "name": "Hindsight", "repo": "vectorize-io/hindsight", "logo": "hindsight.png"},
-  {"slug": "pi", "name": "Pi", "repo": "earendil-works/pi", "logo": "pi-logo.svg"}
+  {"slug": "pi", "name": "Pi", "repo": "earendil-works/pi", "logo": "pi-logo.svg"},
+  {"slug": "network-doctor", "name": "Network Doctor", "repo": "heymaikol/network-doctor", "logo": "network-doctor.svg"}
 ]

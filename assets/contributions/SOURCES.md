@@ -10,6 +10,7 @@ Original assets are stored without changes. Contribution cards embed the origina
 | LiteLLM | `litellm-light.svg`, `litellm-dark.svg` | [Light monogram](https://github.com/BerriAI/litellm/blob/main/ui/litellm-dashboard/public/assets/logos/litellm_monogram.svg) · [Dark monogram](https://github.com/BerriAI/litellm/blob/main/ui/litellm-dashboard/public/assets/logos/litellm_monogram_dark.svg) |
 | Hindsight | `hindsight.png` | [Documentation icon](https://github.com/vectorize-io/hindsight/blob/main/hindsight-docs/static/img/favicon.png) |
 | Pi | `pi-logo.svg` | [Logo linked by the project README](https://pi.dev/logo-auto.svg) |
+| Network Doctor | `network-doctor.svg` | [Official website](https://networkdoctor.dev/) · Unchanged SVG favicon embedded in the page's `<link rel="icon">` |
 
 The cards use Tabler's unchanged [star icon](https://github.com/tabler/tabler-icons/blob/main/icons/outline/star.svg), with its stroke color inherited from the card. Its MIT license is included in `../tech/LICENSE.tabler-icons`.
 
