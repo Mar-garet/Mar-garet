@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-06T07:35:49.142068+00:00",
+  "updated_at": "2026-10-07T07:15:41.588400+00:00",
   "repositories": {
     "SWE-bench/experiments": 284,
-    "getpaseo/paseo": 19637,
-    "pydantic/pydantic-ai": 20423,
-    "BerriAI/litellm": 60195,
-    "vectorize-io/hindsight": 46069,
-    "earendil-works/pi": 112809
+    "getpaseo/paseo": 19887,
+    "pydantic/pydantic-ai": 20464,
+    "BerriAI/litellm": 60260,
+    "vectorize-io/hindsight": 46423,
+    "earendil-works/pi": 113037
   }
 }
