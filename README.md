@@ -26,7 +26,7 @@ I earned my **MSSE from Nanjing University** <img src="assets/education/nanjing-
 ![Codeforces: 2115](assets/codeforces-rating.svg?v=4)
 
 <p>
-  <a href="https://www.baidu.com/"><img src="assets/companies/baidu-logo.svg" alt="Baidu" width="144" height="56" align="absmiddle" /></a>
+  <a href="https://home.baidu.com/home/index"><img src="assets/companies/baidu-logo.svg" alt="Baidu" width="144" height="56" align="absmiddle" /></a>
   &nbsp;&nbsp;
   <a href="https://www.meituan.com/"><img src="assets/companies/meituan-logo.svg" alt="Meituan" width="144" height="56" align="absmiddle" /></a>
   &nbsp;&nbsp;
