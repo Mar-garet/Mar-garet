@@ -39,78 +39,144 @@ I earned my **MSSE from Nanjing University** <img src="assets/education/nanjing-
 
 <p><picture><source media="(prefers-color-scheme: dark)" srcset="assets/sections/contributions-dark.svg?v=2" /><img src="assets/sections/contributions-light.svg?v=2" alt="Projects I've Contributed To" width="294" height="28" /></picture></p>
 
-<p>
-  <a href="https://github.com/SWE-bench/experiments"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/swe-bench-dark.svg" /><img src="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/swe-bench-light.svg" alt="SWE-bench repository and star count" width="274" height="96" /></picture></a>
-</p>
-
-- **Merged** · Submitted ISEA evaluation results on SWE-bench Lite. [PR&nbsp;#332](https://github.com/SWE-bench/experiments/pull/332)
-- **Open PR** · Submitted ISEA evaluation results on SWE-bench Verified. [PR&nbsp;#357](https://github.com/SWE-bench/experiments/pull/357)
-- **Open PR** · Submitted SGAgent evaluation results on SWE-bench Lite. [PR&nbsp;#399](https://github.com/SWE-bench/experiments/pull/399)
-- **Open PR** · Submitted SGAgent evaluation results on SWE-bench Verified. [PR&nbsp;#400](https://github.com/SWE-bench/experiments/pull/400)
-- **Closed PR** · Earlier SGAgent evaluation submission on SWE-bench Lite. [PR&nbsp;#398](https://github.com/SWE-bench/experiments/pull/398)
-
-<p>
-  <a href="https://github.com/getpaseo/paseo"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/paseo-dark.svg" /><img src="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/paseo-light.svg" alt="Paseo repository and star count" width="274" height="96" /></picture></a>
-</p>
-
-**7 PRs merged directly · 9 contributions merged via upstream PRs · 2 open PRs · 15 issue reports**
-
-**Merged directly**
-
-- Open commit-file diffs from subdirectory workspaces. [PR&nbsp;#6801](https://github.com/getpaseo/paseo/pull/6801) · [Issue&nbsp;#6799](https://github.com/getpaseo/paseo/issues/6799)
-- Preserve relative symlink targets when duplicating files and folders. [PR&nbsp;#6771](https://github.com/getpaseo/paseo/pull/6771) · [Issue&nbsp;#6768](https://github.com/getpaseo/paseo/issues/6768)
-- Include dot-prefixed paths in workspace suggestions. [PR&nbsp;#6720](https://github.com/getpaseo/paseo/pull/6720) · [Issue&nbsp;#6719](https://github.com/getpaseo/paseo/issues/6719)
-- Save workspace files with long valid names. [PR&nbsp;#6658](https://github.com/getpaseo/paseo/pull/6658) · [Issue&nbsp;#6657](https://github.com/getpaseo/paseo/issues/6657)
-- Rename untracked files containing brackets without matching sibling paths. [PR&nbsp;#6573](https://github.com/getpaseo/paseo/pull/6573) · [Issue&nbsp;#6566](https://github.com/getpaseo/paseo/issues/6566)
-- Refresh worktree listings after archiving. [PR&nbsp;#6545](https://github.com/getpaseo/paseo/pull/6545)
-- Clear schedule run limits and expiration with negated CLI flags. [PR&nbsp;#5973](https://github.com/getpaseo/paseo/pull/5973) · [Issue&nbsp;#5972](https://github.com/getpaseo/paseo/issues/5972)
-
-**Merged via upstream PRs**
-
-- Discard selected changes from subdirectory workspaces. [Closed&nbsp;PR&nbsp;#6772](https://github.com/getpaseo/paseo/pull/6772) · merged via [#6777](https://github.com/getpaseo/paseo/pull/6777) · [Issue&nbsp;#6769](https://github.com/getpaseo/paseo/issues/6769)
-- Preserve whitespace in base worktree paths during merges. [Closed&nbsp;PR&nbsp;#6662](https://github.com/getpaseo/paseo/pull/6662) · merged via [#6668](https://github.com/getpaseo/paseo/pull/6668) · [Issue&nbsp;#6659](https://github.com/getpaseo/paseo/issues/6659)
-- Support file explorer names starting with two dots while preserving workspace boundaries. [Closed&nbsp;PR&nbsp;#6592](https://github.com/getpaseo/paseo/pull/6592) · merged via [#6604](https://github.com/getpaseo/paseo/pull/6604) · [Issue&nbsp;#6591](https://github.com/getpaseo/paseo/issues/6591)
-- Show Git diffs for filenames containing quotes and control characters. [Closed&nbsp;PR&nbsp;#6574](https://github.com/getpaseo/paseo/pull/6574) · merged via [#6583](https://github.com/getpaseo/paseo/pull/6583) · [Issue&nbsp;#6565](https://github.com/getpaseo/paseo/issues/6565)
-- Diagnose and fix deleted SQL comment lines missing from Git diffs, with co-author credit. [Closed&nbsp;PR&nbsp;#6571](https://github.com/getpaseo/paseo/pull/6571) · merged via [#6569](https://github.com/getpaseo/paseo/pull/6569) · [Issue&nbsp;#6564](https://github.com/getpaseo/paseo/issues/6564)
-- Return usable patch hunks when external Git diff commands are configured. [Closed&nbsp;PR&nbsp;#6555](https://github.com/getpaseo/paseo/pull/6555) · merged via [#6562](https://github.com/getpaseo/paseo/pull/6562) · [Issue&nbsp;#6557](https://github.com/getpaseo/paseo/issues/6557)
-- Release file descriptors when HTTP downloads are canceled. [Closed&nbsp;PR&nbsp;#6554](https://github.com/getpaseo/paseo/pull/6554) · merged via [#6567](https://github.com/getpaseo/paseo/pull/6567) · [Issue&nbsp;#6556](https://github.com/getpaseo/paseo/issues/6556)
-- Report canceled child-agent turns to their callers. [Closed&nbsp;PR&nbsp;#6544](https://github.com/getpaseo/paseo/pull/6544) · merged via [#6660](https://github.com/getpaseo/paseo/pull/6660)
-- Honor `--since` when reading and following agent logs. [Closed&nbsp;PR&nbsp;#6476](https://github.com/getpaseo/paseo/pull/6476) · merged via [#6514](https://github.com/getpaseo/paseo/pull/6514) · [Issue&nbsp;#6475](https://github.com/getpaseo/paseo/issues/6475)
-
-**Open PRs**
-
-- Reject malformed CLI integer options instead of silently truncating them. [PR&nbsp;#6666](https://github.com/getpaseo/paseo/pull/6666) · [Issue&nbsp;#6661](https://github.com/getpaseo/paseo/issues/6661)
-- Show newly created worktrees in the next listing. [PR&nbsp;#6553](https://github.com/getpaseo/paseo/pull/6553)
-
-<p>
-  <a href="https://github.com/pydantic/pydantic-ai"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/pydantic-ai-dark.svg" /><img src="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/pydantic-ai-light.svg" alt="pydantic-ai repository and star count" width="274" height="96" /></picture></a>
-</p>
-
-- **Merged via upstream PR** · Reported incorrect `prepare` retry counts in wrapped toolsets and contributed the original prefixed-tool regression tests, with co-author credit. [Issue&nbsp;#9741](https://github.com/pydantic/pydantic-ai/issues/9741) · [Closed&nbsp;PR&nbsp;#9742](https://github.com/pydantic/pydantic-ai/pull/9742) · merged via [#10219](https://github.com/pydantic/pydantic-ai/pull/10219)
-
-<p>
-  <a href="https://github.com/BerriAI/litellm"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/litellm-dark.svg" /><img src="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/litellm-light.svg" alt="LiteLLM repository and star count" width="274" height="96" /></picture></a>
-</p>
-
-- **Open PR** · Preserve duration for synchronous SRT/VTT transcription responses so costs can be calculated correctly. [PR&nbsp;#44497](https://github.com/BerriAI/litellm/pull/44497)
-
-<p>
-  <a href="https://github.com/vectorize-io/hindsight"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/hindsight-dark.svg" /><img src="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/hindsight-light.svg" alt="Hindsight repository and star count" width="274" height="96" /></picture></a>
-</p>
-
-- **Merged** · Resolve embedded CLI profile selection consistently for forwarded commands, daemon/UI logs, and status. [PR&nbsp;#5205](https://github.com/vectorize-io/hindsight/pull/5205)
-
-<p>
-  <a href="https://github.com/earendil-works/pi"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/pi-dark.svg" /><img src="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/pi-light.svg" alt="Pi repository and star count" width="274" height="96" /></picture></a>
-</p>
-
-- **Issue reported · Open** · Reproduced an editor bug where deleting one duplicate large paste drops the remaining paste content. [Issue&nbsp;#10351](https://github.com/earendil-works/pi/issues/10351)
-
-<p>
-  <a href="https://github.com/heymaikol/network-doctor"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/network-doctor-dark.svg" /><img src="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/network-doctor-light.svg" alt="Network Doctor repository and star count" width="274" height="96" /></picture></a>
-</p>
-
-- **Merged** · Prevent proxy CONNECT response-body draining from producing false latency warnings; added regression coverage. [PR&nbsp;#282](https://github.com/heymaikol/network-doctor/pull/282) · [Issue&nbsp;#281](https://github.com/heymaikol/network-doctor/issues/281)
+<p><strong>Upstream</strong> = credited work merged through another PR.</p>
+<table width="100%">
+<thead><tr><th align="left" width="560">Contribution</th><th align="left" width="240">Status &amp; references</th></tr></thead>
+<tbody>
+<tr><th colspan="2" align="left" scope="rowgroup"><a href="https://github.com/SWE-bench/experiments"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/contributions/swe-bench.png" /><img src="assets/contributions/swe-bench.png" alt="" width="28" height="28" align="absmiddle" /></picture>&nbsp; <strong>SWE-bench</strong></a>&nbsp;&nbsp; <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/swe-bench-stars-dark.svg" /><img src="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/swe-bench-stars-light.svg" alt="SWE-bench GitHub stars" height="20" align="absmiddle" /></picture></th></tr>
+<tr>
+<td>ISEA evaluation on SWE-bench Lite</td>
+<td><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/status-merged-dark.svg" /><img src="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/status-merged-light.svg" alt="Merged" width="66" height="20" align="absmiddle" /></picture>&nbsp; <a href="https://github.com/SWE-bench/experiments/pull/332">PR&nbsp;#332</a></td>
+</tr>
+<tr>
+<td>ISEA evaluation on SWE-bench Verified</td>
+<td><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/status-open-dark.svg" /><img src="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/status-open-light.svg" alt="Open" width="52" height="20" align="absmiddle" /></picture>&nbsp; <a href="https://github.com/SWE-bench/experiments/pull/357">PR&nbsp;#357</a></td>
+</tr>
+<tr>
+<td>SGAgent evaluation on SWE-bench Lite</td>
+<td><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/status-open-dark.svg" /><img src="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/status-open-light.svg" alt="Open" width="52" height="20" align="absmiddle" /></picture>&nbsp; <a href="https://github.com/SWE-bench/experiments/pull/399">PR&nbsp;#399</a></td>
+</tr>
+<tr>
+<td>SGAgent evaluation on SWE-bench Verified</td>
+<td><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/status-open-dark.svg" /><img src="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/status-open-light.svg" alt="Open" width="52" height="20" align="absmiddle" /></picture>&nbsp; <a href="https://github.com/SWE-bench/experiments/pull/400">PR&nbsp;#400</a></td>
+</tr>
+<tr>
+<td>Earlier SGAgent Lite submission</td>
+<td><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/status-closed-dark.svg" /><img src="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/status-closed-light.svg" alt="Closed" width="62" height="20" align="absmiddle" /></picture>&nbsp; <a href="https://github.com/SWE-bench/experiments/pull/398">PR&nbsp;#398</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr><th colspan="2" align="left" scope="rowgroup"><a href="https://github.com/getpaseo/paseo"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/contributions/paseo.svg" /><img src="assets/contributions/paseo.svg" alt="" width="28" height="28" align="absmiddle" /></picture>&nbsp; <strong>Paseo</strong></a>&nbsp;&nbsp; <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/paseo-stars-dark.svg" /><img src="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/paseo-stars-light.svg" alt="Paseo GitHub stars" height="20" align="absmiddle" /></picture></th></tr>
+<tr><td colspan="2"><strong>7</strong> merged &nbsp;·&nbsp; <strong>9</strong> upstream &nbsp;·&nbsp; <strong>2</strong> open PRs &nbsp;·&nbsp; <strong>15</strong> issue reports</td></tr>
+<tr>
+<td>Commit-file diffs in nested workspaces</td>
+<td><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/status-merged-dark.svg" /><img src="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/status-merged-light.svg" alt="Merged" width="66" height="20" align="absmiddle" /></picture>&nbsp; <a href="https://github.com/getpaseo/paseo/pull/6801">PR&nbsp;#6801</a><br /><a href="https://github.com/getpaseo/paseo/issues/6799">Issue&nbsp;#6799</a></td>
+</tr>
+<tr>
+<td>Relative symlinks in duplicated files and folders</td>
+<td><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/status-merged-dark.svg" /><img src="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/status-merged-light.svg" alt="Merged" width="66" height="20" align="absmiddle" /></picture>&nbsp; <a href="https://github.com/getpaseo/paseo/pull/6771">PR&nbsp;#6771</a><br /><a href="https://github.com/getpaseo/paseo/issues/6768">Issue&nbsp;#6768</a></td>
+</tr>
+<tr>
+<td>Dot-prefixed workspace path suggestions</td>
+<td><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/status-merged-dark.svg" /><img src="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/status-merged-light.svg" alt="Merged" width="66" height="20" align="absmiddle" /></picture>&nbsp; <a href="https://github.com/getpaseo/paseo/pull/6720">PR&nbsp;#6720</a><br /><a href="https://github.com/getpaseo/paseo/issues/6719">Issue&nbsp;#6719</a></td>
+</tr>
+<tr>
+<td>Saving workspace files with long names</td>
+<td><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/status-merged-dark.svg" /><img src="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/status-merged-light.svg" alt="Merged" width="66" height="20" align="absmiddle" /></picture>&nbsp; <a href="https://github.com/getpaseo/paseo/pull/6658">PR&nbsp;#6658</a><br /><a href="https://github.com/getpaseo/paseo/issues/6657">Issue&nbsp;#6657</a></td>
+</tr>
+<tr>
+<td>Literal bracket filenames when renaming files</td>
+<td><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/status-merged-dark.svg" /><img src="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/status-merged-light.svg" alt="Merged" width="66" height="20" align="absmiddle" /></picture>&nbsp; <a href="https://github.com/getpaseo/paseo/pull/6573">PR&nbsp;#6573</a><br /><a href="https://github.com/getpaseo/paseo/issues/6566">Issue&nbsp;#6566</a></td>
+</tr>
+<tr>
+<td>Refresh listings after archiving worktrees</td>
+<td><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/status-merged-dark.svg" /><img src="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/status-merged-light.svg" alt="Merged" width="66" height="20" align="absmiddle" /></picture>&nbsp; <a href="https://github.com/getpaseo/paseo/pull/6545">PR&nbsp;#6545</a></td>
+</tr>
+<tr>
+<td>Clear schedule limits with negated flags</td>
+<td><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/status-merged-dark.svg" /><img src="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/status-merged-light.svg" alt="Merged" width="66" height="20" align="absmiddle" /></picture>&nbsp; <a href="https://github.com/getpaseo/paseo/pull/5973">PR&nbsp;#5973</a><br /><a href="https://github.com/getpaseo/paseo/issues/5972">Issue&nbsp;#5972</a></td>
+</tr>
+<tr>
+<td>Discard selected changes in nested workspaces</td>
+<td><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/status-upstream-dark.svg" /><img src="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/status-upstream-light.svg" alt="Upstream" width="82" height="20" align="absmiddle" /></picture>&nbsp; <a href="https://github.com/getpaseo/paseo/pull/6772">Closed&nbsp;#6772</a><br /><a href="https://github.com/getpaseo/paseo/pull/6777">via&nbsp;#6777</a> &nbsp;·&nbsp; <a href="https://github.com/getpaseo/paseo/issues/6769">Issue&nbsp;#6769</a></td>
+</tr>
+<tr>
+<td>Preserve whitespace in base worktree paths</td>
+<td><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/status-upstream-dark.svg" /><img src="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/status-upstream-light.svg" alt="Upstream" width="82" height="20" align="absmiddle" /></picture>&nbsp; <a href="https://github.com/getpaseo/paseo/pull/6662">Closed&nbsp;#6662</a><br /><a href="https://github.com/getpaseo/paseo/pull/6668">via&nbsp;#6668</a> &nbsp;·&nbsp; <a href="https://github.com/getpaseo/paseo/issues/6659">Issue&nbsp;#6659</a></td>
+</tr>
+<tr>
+<td>Double-dot filenames within workspace boundaries</td>
+<td><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/status-upstream-dark.svg" /><img src="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/status-upstream-light.svg" alt="Upstream" width="82" height="20" align="absmiddle" /></picture>&nbsp; <a href="https://github.com/getpaseo/paseo/pull/6592">Closed&nbsp;#6592</a><br /><a href="https://github.com/getpaseo/paseo/pull/6604">via&nbsp;#6604</a> &nbsp;·&nbsp; <a href="https://github.com/getpaseo/paseo/issues/6591">Issue&nbsp;#6591</a></td>
+</tr>
+<tr>
+<td>Git diffs for quoted and control-character filenames</td>
+<td><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/status-upstream-dark.svg" /><img src="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/status-upstream-light.svg" alt="Upstream" width="82" height="20" align="absmiddle" /></picture>&nbsp; <a href="https://github.com/getpaseo/paseo/pull/6574">Closed&nbsp;#6574</a><br /><a href="https://github.com/getpaseo/paseo/pull/6583">via&nbsp;#6583</a> &nbsp;·&nbsp; <a href="https://github.com/getpaseo/paseo/issues/6565">Issue&nbsp;#6565</a></td>
+</tr>
+<tr>
+<td>Preserve deleted SQL comments in Git diffs</td>
+<td><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/status-upstream-dark.svg" /><img src="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/status-upstream-light.svg" alt="Upstream" width="82" height="20" align="absmiddle" /></picture>&nbsp; <a href="https://github.com/getpaseo/paseo/pull/6571">Closed&nbsp;#6571</a><br /><a href="https://github.com/getpaseo/paseo/pull/6569">via&nbsp;#6569</a> &nbsp;·&nbsp; <a href="https://github.com/getpaseo/paseo/issues/6564">Issue&nbsp;#6564</a></td>
+</tr>
+<tr>
+<td>Parse Git patches with external diff commands configured</td>
+<td><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/status-upstream-dark.svg" /><img src="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/status-upstream-light.svg" alt="Upstream" width="82" height="20" align="absmiddle" /></picture>&nbsp; <a href="https://github.com/getpaseo/paseo/pull/6555">Closed&nbsp;#6555</a><br /><a href="https://github.com/getpaseo/paseo/pull/6562">via&nbsp;#6562</a> &nbsp;·&nbsp; <a href="https://github.com/getpaseo/paseo/issues/6557">Issue&nbsp;#6557</a></td>
+</tr>
+<tr>
+<td>Release file handles on canceled downloads</td>
+<td><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/status-upstream-dark.svg" /><img src="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/status-upstream-light.svg" alt="Upstream" width="82" height="20" align="absmiddle" /></picture>&nbsp; <a href="https://github.com/getpaseo/paseo/pull/6554">Closed&nbsp;#6554</a><br /><a href="https://github.com/getpaseo/paseo/pull/6567">via&nbsp;#6567</a> &nbsp;·&nbsp; <a href="https://github.com/getpaseo/paseo/issues/6556">Issue&nbsp;#6556</a></td>
+</tr>
+<tr>
+<td>Cancellation notifications for child-agent turns</td>
+<td><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/status-upstream-dark.svg" /><img src="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/status-upstream-light.svg" alt="Upstream" width="82" height="20" align="absmiddle" /></picture>&nbsp; <a href="https://github.com/getpaseo/paseo/pull/6544">Closed&nbsp;#6544</a><br /><a href="https://github.com/getpaseo/paseo/pull/6660">via&nbsp;#6660</a></td>
+</tr>
+<tr>
+<td>Timestamp filtering when reading and following agent logs</td>
+<td><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/status-upstream-dark.svg" /><img src="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/status-upstream-light.svg" alt="Upstream" width="82" height="20" align="absmiddle" /></picture>&nbsp; <a href="https://github.com/getpaseo/paseo/pull/6476">Closed&nbsp;#6476</a><br /><a href="https://github.com/getpaseo/paseo/pull/6514">via&nbsp;#6514</a> &nbsp;·&nbsp; <a href="https://github.com/getpaseo/paseo/issues/6475">Issue&nbsp;#6475</a></td>
+</tr>
+<tr>
+<td>Reject malformed CLI integer options</td>
+<td><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/status-open-dark.svg" /><img src="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/status-open-light.svg" alt="Open" width="52" height="20" align="absmiddle" /></picture>&nbsp; <a href="https://github.com/getpaseo/paseo/pull/6666">PR&nbsp;#6666</a><br /><a href="https://github.com/getpaseo/paseo/issues/6661">Issue&nbsp;#6661</a></td>
+</tr>
+<tr>
+<td>Show newly created worktrees immediately</td>
+<td><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/status-open-dark.svg" /><img src="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/status-open-light.svg" alt="Open" width="52" height="20" align="absmiddle" /></picture>&nbsp; <a href="https://github.com/getpaseo/paseo/pull/6553">PR&nbsp;#6553</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr><th colspan="2" align="left" scope="rowgroup"><a href="https://github.com/pydantic/pydantic-ai"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/contributions/pydantic-ai.png" /><img src="assets/contributions/pydantic-ai.png" alt="" width="28" height="28" align="absmiddle" /></picture>&nbsp; <strong>pydantic-ai</strong></a>&nbsp;&nbsp; <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/pydantic-ai-stars-dark.svg" /><img src="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/pydantic-ai-stars-light.svg" alt="pydantic-ai GitHub stars" height="20" align="absmiddle" /></picture></th></tr>
+<tr>
+<td>Retry-count bug report and prefixed-tool regression tests</td>
+<td><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/status-upstream-dark.svg" /><img src="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/status-upstream-light.svg" alt="Upstream" width="82" height="20" align="absmiddle" /></picture>&nbsp; <a href="https://github.com/pydantic/pydantic-ai/pull/9742">Closed&nbsp;#9742</a><br /><a href="https://github.com/pydantic/pydantic-ai/pull/10219">via&nbsp;#10219</a> &nbsp;·&nbsp; <a href="https://github.com/pydantic/pydantic-ai/issues/9741">Issue&nbsp;#9741</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr><th colspan="2" align="left" scope="rowgroup"><a href="https://github.com/BerriAI/litellm"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/contributions/litellm-dark.svg" /><img src="assets/contributions/litellm-light.svg" alt="" width="28" height="28" align="absmiddle" /></picture>&nbsp; <strong>LiteLLM</strong></a>&nbsp;&nbsp; <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/litellm-stars-dark.svg" /><img src="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/litellm-stars-light.svg" alt="LiteLLM GitHub stars" height="20" align="absmiddle" /></picture></th></tr>
+<tr>
+<td>Duration and cost calculation for SRT/VTT transcriptions</td>
+<td><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/status-open-dark.svg" /><img src="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/status-open-light.svg" alt="Open" width="52" height="20" align="absmiddle" /></picture>&nbsp; <a href="https://github.com/BerriAI/litellm/pull/44497">PR&nbsp;#44497</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr><th colspan="2" align="left" scope="rowgroup"><a href="https://github.com/vectorize-io/hindsight"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/contributions/hindsight.png" /><img src="assets/contributions/hindsight.png" alt="" width="28" height="21" align="absmiddle" /></picture>&nbsp; <strong>Hindsight</strong></a>&nbsp;&nbsp; <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/hindsight-stars-dark.svg" /><img src="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/hindsight-stars-light.svg" alt="Hindsight GitHub stars" height="20" align="absmiddle" /></picture></th></tr>
+<tr>
+<td>Consistent embedded CLI profile selection</td>
+<td><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/status-merged-dark.svg" /><img src="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/status-merged-light.svg" alt="Merged" width="66" height="20" align="absmiddle" /></picture>&nbsp; <a href="https://github.com/vectorize-io/hindsight/pull/5205">PR&nbsp;#5205</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr><th colspan="2" align="left" scope="rowgroup"><a href="https://github.com/earendil-works/pi"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/contributions/pi-logo.svg" /><img src="assets/contributions/pi-logo.svg" alt="" width="28" height="28" align="absmiddle" /></picture>&nbsp; <strong>Pi</strong></a>&nbsp;&nbsp; <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/pi-stars-dark.svg" /><img src="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/pi-stars-light.svg" alt="Pi GitHub stars" height="20" align="absmiddle" /></picture></th></tr>
+<tr>
+<td>Bug report: content loss with duplicate large pastes</td>
+<td><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/status-open-dark.svg" /><img src="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/status-open-light.svg" alt="Open" width="52" height="20" align="absmiddle" /></picture>&nbsp; <a href="https://github.com/earendil-works/pi/issues/10351">Issue&nbsp;#10351</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr><th colspan="2" align="left" scope="rowgroup"><a href="https://github.com/heymaikol/network-doctor"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/contributions/network-doctor.svg" /><img src="assets/contributions/network-doctor.svg" alt="" width="28" height="28" align="absmiddle" /></picture>&nbsp; <strong>Network Doctor</strong></a>&nbsp;&nbsp; <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/network-doctor-stars-dark.svg" /><img src="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/network-doctor-stars-light.svg" alt="Network Doctor GitHub stars" height="20" align="absmiddle" /></picture></th></tr>
+<tr>
+<td>Proxy CONNECT latency fix and regression coverage</td>
+<td><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/status-merged-dark.svg" /><img src="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/contributions/status-merged-light.svg" alt="Merged" width="66" height="20" align="absmiddle" /></picture>&nbsp; <a href="https://github.com/heymaikol/network-doctor/pull/282">PR&nbsp;#282</a><br /><a href="https://github.com/heymaikol/network-doctor/issues/281">Issue&nbsp;#281</a></td>
+</tr>
+</tbody>
+</table>
 
 <p><picture><source media="(prefers-color-scheme: dark)" srcset="assets/sections/publication-dark.svg?v=2" /><img src="assets/sections/publication-light.svg?v=2" alt="Publication" width="132" height="28" /></picture></p>
 
