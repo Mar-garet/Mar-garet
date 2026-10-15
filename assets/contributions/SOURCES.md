@@ -1,6 +1,6 @@
 # Contributed project icon sources
 
-Original assets are stored without changes. Contribution cards embed the originals at consistent display sizes and use the official light and dark LiteLLM variants.
+Original assets are stored without changes. Repository headers display the official icons at consistent sizes and use the official light and dark LiteLLM variants.
 
 | Project | Local file | Official source |
 | --- | --- | --- |
@@ -14,7 +14,9 @@ Original assets are stored without changes. Contribution cards embed the origina
 
 The cards use Tabler's unchanged [star icon](https://github.com/tabler/tabler-icons/blob/main/icons/outline/star.svg), with its stroke color inherited from the card. Its MIT license is included in `../tech/LICENSE.tabler-icons`.
 
-`.github/scripts/render_contributions.py` reads `projects.json`, fetches each repository's current `stargazers_count` through the GitHub API, and generates light and dark SVG cards. Each count refers to the exact repository linked alongside it, including `SWE-bench/experiments`.
+`.github/scripts/render_contributions.py` reads `projects.json`, fetches each repository's current `stargazers_count` through the GitHub API, and generates light and dark inline star counts, status labels, and standalone cards. Each count refers to the exact repository linked alongside it, including `SWE-bench/experiments`.
+
+The status labels use text as well as color. Contribution descriptions, outcomes, and evidence links are maintained in `README.md`; the graphics workflow refreshes star counts without changing those verified records.
 
 The profile graphics workflow publishes the cards to `output/contributions/` daily at 09:17 China time, together with the contribution snake. GitHub's image cache can delay display updates.
 
