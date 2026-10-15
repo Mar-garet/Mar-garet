@@ -17,24 +17,6 @@ THEMES = {
     "light": {"surface": "#ffffff", "border": "#d1d9e0", "text": "#1f2328", "muted": "#59636e"},
     "dark": {"surface": "#161b22", "border": "#3d444d", "text": "#f0f6fc", "muted": "#9198a1"},
 }
-STATUSES = {
-    "merged": {
-        "label": "Merged", "width": 66,
-        "light": ("#f3edff", "#6e40a6"), "dark": ("#2b1e40", "#d2b2ff"),
-    },
-    "upstream": {
-        "label": "Upstream", "width": 82,
-        "light": ("#e9f5f1", "#216650"), "dark": ("#16382d", "#8cdbb6"),
-    },
-    "open": {
-        "label": "Open", "width": 52,
-        "light": ("#eaf2ff", "#245c9e"), "dark": ("#192e47", "#a4cdff"),
-    },
-    "closed": {
-        "label": "Closed", "width": 62,
-        "light": ("#eef0f3", "#59636e"), "dark": ("#252b33", "#b6bec9"),
-    },
-}
 
 
 def logo_image(filename: str) -> str:
@@ -73,31 +55,6 @@ def render_card(name: str, logo: str, stars: int, theme: str) -> str:
 '''
 
 
-def render_stars(name: str, stars: int, theme: str) -> str:
-    count = f"{stars:,}"
-    width = 27 + len(count) * 8
-    color = THEMES[theme]["muted"]
-    star = (ASSETS / "star.svg").read_text()
-    return f'''<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="20" viewBox="0 0 {width} 20" role="img" aria-labelledby="title">
-  <title id="title">{escape(name)}: {count} GitHub stars</title>
-  <g transform="translate(0 2) scale(0.667)" color="{color}">{star}</g>
-  <text x="23" y="15" fill="{color}" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif" font-size="13">{count}</text>
-</svg>
-'''
-
-
-def render_status(status: str, theme: str) -> str:
-    spec = STATUSES[status]
-    background, color = spec[theme]
-    width = spec["width"]
-    return f'''<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="20" viewBox="0 0 {width} 20" role="img" aria-labelledby="title">
-  <title id="title">{spec['label']}</title>
-  <rect width="{width}" height="20" rx="4" fill="{background}" />
-  <text x="{width / 2:g}" y="14" text-anchor="middle" fill="{color}" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif" font-size="12" font-weight="600">{spec['label']}</text>
-</svg>
-'''
-
-
 def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--output-dir", required=True, type=Path)
@@ -123,13 +80,7 @@ def main() -> None:
             logo = project.get("dark_logo", project["logo"]) if theme == "dark" else project["logo"]
             card = render_card(project["name"], logo, counts[project["repo"]], theme)
             (args.output_dir / f"{project['slug']}-{theme}.svg").write_text(card)
-            star_strip = render_stars(project["name"], counts[project["repo"]], theme)
-            (args.output_dir / f"{project['slug']}-stars-{theme}.svg").write_text(star_strip)
         print(f"{project['repo']}: {counts[project['repo']]:,} stars")
-
-    for status in STATUSES:
-        for theme in THEMES:
-            (args.output_dir / f"status-{status}-{theme}.svg").write_text(render_status(status, theme))
 
     snapshot = {"updated_at": datetime.now(timezone.utc).isoformat(), "repositories": counts}
     (args.output_dir / "stars.json").write_text(json.dumps(snapshot, indent=2) + "\n")
