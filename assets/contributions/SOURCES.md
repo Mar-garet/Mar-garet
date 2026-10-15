@@ -11,6 +11,7 @@ Original assets are stored without changes. Contribution cards embed the origina
 | Hindsight | `hindsight.png` | [Documentation icon](https://github.com/vectorize-io/hindsight/blob/main/hindsight-docs/static/img/favicon.png) |
 | Pi | `pi-logo.svg` | [Logo linked by the project README](https://pi.dev/logo-auto.svg) |
 | Network Doctor | `network-doctor.svg` | [Official website](https://networkdoctor.dev/) · Unchanged SVG favicon embedded in the page's `<link rel="icon">` |
+| deja-vu | `deja-vu.svg` | [Official project icon](https://github.com/vshulcz/deja-vu/blob/main/assets/icon.svg) |
 
 The cards use Tabler's unchanged [star icon](https://github.com/tabler/tabler-icons/blob/main/icons/outline/star.svg), with its stroke color inherited from the card. Its MIT license is included in `../tech/LICENSE.tabler-icons`.
 
