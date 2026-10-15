@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="83" height="20" viewBox="0 0 83 20" role="img" aria-labelledby="title">
+  <title id="title">Pi: 115,270 GitHub stars</title>
+  <g transform="translate(0 2) scale(0.667)" color="#9198a1"><!--
+tags: [favorite, rating, rate, review, bookmark, like, featured, favourite, star]
+category: System
+version: "1.0"
+unicode: "eb2e"
+-->
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="24"
+  height="24"
+  viewBox="0 0 24 24"
+  fill="none"
+  stroke="currentColor"
+  stroke-width="2"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+>
+  <path d="M12 17.75l-6.172 3.245l1.179 -6.873l-5 -4.867l6.9 -1l3.086 -6.253l3.086 6.253l6.9 1l-5 4.867l1.179 6.873l-6.158 -3.245" />
+</svg>
+</g>
+  <text x="23" y="15" fill="#9198a1" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif" font-size="13">115,270</text>
+</svg>
