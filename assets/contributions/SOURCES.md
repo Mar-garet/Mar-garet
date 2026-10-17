@@ -17,6 +17,8 @@ The cards use Tabler's unchanged [star icon](https://github.com/tabler/tabler-ic
 
 `.github/scripts/render_contributions.py` reads `projects.json`, fetches each repository's current `stargazers_count` through the GitHub API, and generates light and dark SVG cards. Each count refers to the exact repository linked alongside it, including `SWE-bench/experiments`.
 
-The profile graphics workflow publishes the cards to `output/contributions/` daily at 09:17 China time, together with the contribution snake. GitHub's image cache can delay display updates.
+The profile graphics workflow publishes the cards to `output/contributions/` daily at 09:17 China time, together with a light and dark 3D contribution calendar in `output/activity/`. GitHub's image cache can delay display updates.
+
+`.github/scripts/render_activity.py` fetches the owner's past year of daily counts from GitHub's GraphQL `contributionCalendar`. It draws one column per day with a logarithmic height scale and GitHub's contribution-level colors. The SVGs use transparent backgrounds to match the profile theme.
 
 These assets identify projects the profile owner has contributed to. Brand rights remain with their respective owners.

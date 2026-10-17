@@ -10,6 +10,7 @@ on:
     paths:
       - .github/workflows/snake.yml
       - .github/scripts/render_contributions.py
+      - .github/scripts/render_activity.py
       - assets/contributions/**
 
 concurrency:
@@ -33,13 +34,10 @@ jobs:
           GH_TOKEN: ${{ github.token }}
         run: python3 .github/scripts/render_contributions.py --output-dir dist/contributions
 
-      - name: Generate light and dark snake animations
-        uses: Platane/snk/svg-only@d8f6715049803e982ee5ff501b6b9b7d5deeb09b # v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - name: Generate light and dark 3D contribution calendars
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python3 .github/scripts/render_activity.py --username "${{ github.repository_owner }}" --output-dir dist/activity
 
       - name: Publish contribution graphics to the output branch
         uses: peaceiris/actions-gh-pages@84c30a85c19949d7eee79c4ff27748b70285e453 # v4
