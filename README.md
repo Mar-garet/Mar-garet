@@ -55,7 +55,6 @@ I earned my **MSSE from Nanjing University** <img src="assets/education/nanjing-
 **[TOSEM ’26] SGAgent: Suggestion-Guided LLM-Based Multi-Agent Framework for Repository-Level Software Repair.**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake animation of my GitHub contributions" src="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/activity/contribution-calendar-dark.svg" />
+  <img alt="3D calendar of my GitHub contributions" src="https://raw.githubusercontent.com/Mar-garet/Mar-garet/refs/heads/output/activity/contribution-calendar-light.svg" width="100%" />
 </picture>
