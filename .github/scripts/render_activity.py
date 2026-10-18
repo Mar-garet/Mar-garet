@@ -76,10 +76,12 @@ def polygon(points: list[tuple[float, float]], color: str) -> str:
 def render_calendar(calendar: dict, username: str, theme: str) -> str:
     weeks = calendar["weeks"]
     days = [day for week in weeks for day in week["contributionDays"]]
-    if not days or any(day["contributionCount"] < 0 for day in days):
+    if (
+        not days
+        or calendar["totalContributions"] < 0
+        or any(day["contributionCount"] < 0 for day in days)
+    ):
         raise ValueError("GitHub returned an empty or invalid contribution calendar")
-    if sum(day["contributionCount"] for day in days) != calendar["totalContributions"]:
-        raise ValueError("Contribution total does not match the daily counts")
 
     palette = THEMES[theme]
     # Foreshortened week/day axes keep a full year readable inside a profile README.
@@ -138,6 +140,18 @@ def main() -> None:
     parser.add_argument("--output-dir", required=True, type=Path)
     args = parser.parse_args()
     calendar = fetch_calendar(args.username)
+    # GitHub's aggregate and daily counts can differ, as in the 2026-10-18 run.
+    # Preserve both API values instead of treating a mismatch as invalid data.
+    daily_total = sum(
+        day["contributionCount"]
+        for week in calendar["weeks"]
+        for day in week["contributionDays"]
+    )
+    if daily_total != calendar["totalContributions"]:
+        print(
+            f"GitHub reported {calendar['totalContributions']:,} total contributions "
+            f"and {daily_total:,} across daily counts; rendering the provided values."
+        )
     rendered = {theme: render_calendar(calendar, args.username, theme) for theme in THEMES}
     args.output_dir.mkdir(parents=True, exist_ok=True)
     for theme, svg in rendered.items():
