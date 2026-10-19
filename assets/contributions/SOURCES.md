@@ -21,6 +21,10 @@ The profile graphics workflow publishes the cards to `output/contributions/` dai
 
 `.github/scripts/render_activity.py` fetches the owner's past year of daily counts from GitHub's GraphQL `contributionCalendar`. It draws one column per day with a logarithmic height scale and GitHub's contribution-level colors. The SVGs use transparent backgrounds to match the profile theme.
 
+Each week has a complete seven-tile base, including dates omitted by the API at the calendar's edges. Those extra tiles are decorative floor only and do not add contributions or date labels.
+
+The completed-base version is published as `contribution-calendar-v2-light.svg` and `contribution-calendar-v2-dark.svg` so older image caches cannot mask the layout fix.
+
 The heading preserves GitHub's `totalContributions`, and the columns preserve each day's `contributionCount`. If those API values differ, the workflow records the difference and still refreshes the graphics. The regression test runs before each generation.
 
 These assets identify projects the profile owner has contributed to. Brand rights remain with their respective owners.

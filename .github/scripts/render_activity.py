@@ -94,6 +94,27 @@ def render_calendar(calendar: dict, username: str, theme: str) -> str:
     max_count = max(day["contributionCount"] for day in days)
     max_log = math.log1p(max_count) or 1
     bars = []
+    padding = []
+
+    # The API can omit days at the edges of the calendar, especially this week.
+    # Complete the base before painting the real columns, without inventing data.
+    for week_index, week in enumerate(weeks):
+        known_weekdays = {day["weekday"] for day in week["contributionDays"]}
+        for weekday in sorted(set(range(7)) - known_weekdays):
+            x = origin_x + week_index * week_dx + weekday * day_dx
+            y = origin_y + week_index * week_dy + weekday * day_dy
+            a = (x, y - 2)
+            b = (x + week_dx * gap, y + week_dy * gap - 2)
+            c = (b[0] + day_dx * gap, b[1] + day_dy * gap)
+            d = (x + day_dx * gap, y + day_dy * gap - 2)
+            color = palette["colors"][0]
+            padding.append(
+                "<g>"
+                + polygon([b, c, (c[0], c[1] + 2), (b[0], b[1] + 2)], shade(color, 0.64))
+                + polygon([c, d, (d[0], d[1] + 2), (c[0], c[1] + 2)], shade(color, 0.82))
+                + polygon([a, b, c, d], color)
+                + "</g>"
+            )
 
     # Paint back to front, so the nearer day and week faces cover the far faces.
     for week_index, week in enumerate(weeks):
@@ -127,6 +148,7 @@ def render_calendar(calendar: dict, username: str, theme: str) -> str:
   <g font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif">
     <text x="24" y="28" fill="{palette['text']}" font-size="18" font-weight="600">{calendar['totalContributions']:,} contributions</text>
     <text x="{width - 24}" y="28" text-anchor="end" fill="{palette['muted']}" font-size="14">{period}</text>
+    <g id="calendar-padding" aria-hidden="true">{''.join(padding)}</g>
     {''.join(bars)}
     <text x="24" y="{height - 12}" fill="{palette['muted']}" font-size="13">One column per day · Height reflects activity</text>
   </g>
@@ -155,7 +177,7 @@ def main() -> None:
     rendered = {theme: render_calendar(calendar, args.username, theme) for theme in THEMES}
     args.output_dir.mkdir(parents=True, exist_ok=True)
     for theme, svg in rendered.items():
-        (args.output_dir / f"contribution-calendar-{theme}.svg").write_text(svg)
+        (args.output_dir / f"contribution-calendar-v2-{theme}.svg").write_text(svg)
     print(f"Rendered {calendar['totalContributions']:,} real contributions in light and dark themes")
 
 
