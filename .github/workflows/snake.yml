@@ -2,7 +2,8 @@ name: Profile Contribution Graphics
 
 on:
   schedule:
-    - cron: '17 1 * * *'
+    # Refresh every three hours so same-day contributions appear in the chart.
+    - cron: '17 */3 * * *'
   workflow_dispatch:
   push:
     branches:
