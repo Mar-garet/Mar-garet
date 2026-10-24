@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-23T21:23:45.538096+00:00",
+  "updated_at": "2026-10-24T04:35:23.855951+00:00",
   "repositories": {
     "SWE-bench/experiments": 283,
-    "getpaseo/paseo": 21806,
-    "pydantic/pydantic-ai": 20823,
-    "BerriAI/litellm": 61917,
-    "vectorize-io/hindsight": 53098,
-    "earendil-works/pi": 117428,
+    "getpaseo/paseo": 21822,
+    "pydantic/pydantic-ai": 20825,
+    "BerriAI/litellm": 61929,
+    "vectorize-io/hindsight": 53193,
+    "earendil-works/pi": 117470,
     "heymaikol/network-doctor": 431,
     "vshulcz/deja-vu": 1298
   }
